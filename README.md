@@ -1,6 +1,5 @@
 # Project-Haddop-43-Challenges-
 
-
 <table>
   
 **In this project We will use Spark with Python to do an amazing stuff.Here we will work on the NLP(Natural Language Processing) with Spark to classify emails as SPAM and HAM.** <br></br>
