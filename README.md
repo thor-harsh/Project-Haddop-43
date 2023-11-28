@@ -3,8 +3,7 @@
 
 <table>
   
-**In this project We will use Spark with Python to do an amazing stuff.Here we will work on the NLP with Spark to classify emails as Spam and Ham.** <br></br>
-
+**In this project We will use Spark with Python to do an amazing stuff.Here we will work on the NLP with Spark to classify emails as SPAM and HAM.** <br></br>
 
 
 **Before jumping to the code lets understand Spark and NLP(Natural Language Processing) First**...<br></br>
