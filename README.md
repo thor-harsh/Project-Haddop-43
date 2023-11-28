@@ -3,7 +3,7 @@
 
 <table>
   
-**In this project We will use Spark with Python to do an amazing stuff.Here we will work on the NLP with Spark to classify emails as SPAM and HAM.** <br></br>
+**In this project We will use Spark with Python to do an amazing stuff.Here we will work on the NLP(Natural Language Processing) with Spark to classify emails as SPAM and HAM.** <br></br>
 
 
 **Before jumping to the code lets understand Spark and NLP(Natural Language Processing) First**...<br></br>
@@ -17,8 +17,8 @@ Perform Exploratory Data Analysis (EDA) on petabyte-scale data without having to
 Train machine learning algorithms on a laptop and use the same code to scale to fault-tolerant clusters of thousands of machines.<br></br>
 
 
-**What is Natural Language Processing**?<br></br>
-Natural language processing is an interdisciplinary subfield of computer science and linguistics. It is primarily concerned with giving computers the ability to support and manipulate human language.<br></br>
+**What is (NLP)Natural Language Processing**?<br></br>
+NLP or Natural language processing is an interdisciplinary subfield of computer science and linguistics. It is primarily concerned with giving computers the ability to support and manipulate human language.<br></br>
 
 NLP combines computational linguistics—rule-based modeling of human language—with statistical, machine learning, and deep learning models. Together, these technologies enable computers to process human language in the form of text or voice data and to ‘understand’ its full meaning, complete with the speaker or writer’s intent and sentiment.<br></br>
 
